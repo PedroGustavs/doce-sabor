@@ -47,11 +47,37 @@ Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para aux
 ### Diagrama de Casos de Uso: 
 - Descreve as interações entre os usuários do sistema e suas funcionalidades principais.
 
-<img src="img/diagrama de casos.png">
-
 ### Diagrama de Classes: 
 - Representa a estrutura do sistema, mostrando classes, atributos, operações e as relações entre os objetos.
   
 ### Modelos de Dados: 
 - Inclui o modelo lógico e físico do banco de dados, com scripts para criação de tabelas e inserção de dados iniciais.
 
+### Interfase Gráfica:
+
+#### Tela de Login
+<img src="TelaLogin.png">
+
+#### DashBoard do Administrador
+<img src="TelaPrincipalAdm.png">
+
+#### Configurações
+<img src="TelaConfiguracoes.png">
+
+#### DashBoard do Administrador
+<img src="TelaPrincipalAdm.png">
+
+#### Detalhamento de Caixa
+<img src="TelaDetalhamentoCaixa.png">
+
+#### Relatorio dos Caixas
+<img src="TelaVisualizacaoCaixas.PNG">
+
+#### Cadastro de Ingredientes
+<img src="TelaCadastroIngrediente.png">
+
+#### Alteração de Consumidor
+<img src="TelaAlteracaoConsumidor.PNG">
+
+#### Alteração de Compra
+<img src="TelaAlteracaoCompra.PNG">
