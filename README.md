@@ -4,7 +4,7 @@ Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para aux
 
 #
 
-## Tecnologias Utilizadas: 
+## **Tecnologias Utilizadas:**
 - **Java**;
 - **JavaFX**;
 - **JasperReports**;
@@ -13,7 +13,7 @@ Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para aux
 
 #
 
-## Funcionalidades Principais:
+## **Funcionalidades Principais:**
 
 ### Cadastro e Gestão de Pedidos:
 - O sistema permite que atendentes associem clientes a pedidos, incluindo itens a serem produzidos e datas de entrega. Após a produção, pedidos podem ser marcados como concluídos e estão disponíveis para retirada ou entrega.
@@ -34,7 +34,7 @@ Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para aux
 
 #
 
-## Níveis de Acesso:
+## **Níveis de Acesso:**
 
 - ### Administrador: Gerencia dados dos funcionários e fornecedores, controla o fluxo de vendas e compra de ingredientes.
 - ### Atendente: Registra e gerencia pedidos, realiza orçamentos e registra pagamentos.
@@ -42,42 +42,31 @@ Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para aux
 
 #
 
-## Detalhes Técnicos
+## **Interfase Gráfica:**
 
-### Diagrama de Casos de Uso: 
-- Descreve as interações entre os usuários do sistema e suas funcionalidades principais.
-
-### Diagrama de Classes: 
-- Representa a estrutura do sistema, mostrando classes, atributos, operações e as relações entre os objetos.
-  
-### Modelos de Dados: 
-- Inclui o modelo lógico e físico do banco de dados, com scripts para criação de tabelas e inserção de dados iniciais.
-
-### Interfase Gráfica:
-
-#### Tela de Login
+- #### Tela de Login
 <img src="TelaLogin.png">
 
-#### DashBoard do Administrador
+- #### DashBoard do Administrador
 <img src="TelaPrincipalAdm.png">
 
-#### Configurações
+- #### Configurações
 <img src="TelaConfiguracoes.png">
 
-#### DashBoard do Administrador
+- #### DashBoard do Administrador
 <img src="TelaPrincipalAdm.png">
 
-#### Detalhamento de Caixa
+- #### Detalhamento de Caixa
 <img src="TelaDetalhamentoCaixa.png">
 
-#### Relatorio dos Caixas
+- #### Relatorio dos Caixas
 <img src="TelaVisualizacaoCaixas.PNG">
 
-#### Cadastro de Ingredientes
+- #### Cadastro de Ingredientes
 <img src="TelaCadastroIngrediente.png">
 
-#### Alteração de Consumidor
+- #### Alteração de Consumidor
 <img src="TelaAlteracaoConsumidor.PNG">
 
-#### Alteração de Compra
+- #### Alteração de Compra
 <img src="TelaAlteracaoCompra.PNG">
