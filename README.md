@@ -1,6 +1,6 @@
 # **Confeitaria Doce Sabor**
 
-Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para auxiliar no gerenciamento de vendas, estoque, orçamento e produção diária de uma confeitaria. Esse sistema foi desenvolvido na disciplina de **Projeto Integrador** no 3 ano do meu **curso técnico em informática**. Ela foi publicada na forma de resumo expandido e apresentado na *#edição de 2023** da **Mostra Científica, Cultural e Tecnológica do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Presidente Epitácio**. Portal : [IFSP - PEP] (https://pep2.ifsp.edu.br/mct/index.php/resumos-expandidos).
+Em 2023, desenvolvi uma aplicação desktop denominada **"Doce Sabor"** para auxiliar no gerenciamento de vendas, estoque, orçamento e produção diária de uma confeitaria. Esse sistema foi desenvolvido na disciplina de **Projeto Integrador** no 3 ano do meu **curso técnico em informática**. Ela foi publicada na forma de resumo expandido e apresentado na **edição de 2023** da **Mostra Científica, Cultural e Tecnológica do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Presidente Epitácio**. Portal : [IFSP - PEP] (https://pep2.ifsp.edu.br/mct/index.php/resumos-expandidos).
 
 #
 
