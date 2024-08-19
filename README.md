@@ -57,7 +57,7 @@ A **"Doce Sabor"** é uma aplicação desktop desenvolvida em 2023. Ela foi impl
 <img src="TelaPrincipalAdm.png">
 
 - #### Detalhamento de Caixa
-<img src="TelaDetalhamentoCaixa.png">
+<img src="TelaDetalhamentoCaixa.PNG">
 
 - #### Relatorio dos Caixas
 <img src="TelaVisualizacaoCaixas.PNG">
